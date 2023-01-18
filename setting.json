@@ -1,9 +1,9 @@
 {
   "primary_color" : "white", // default color is 'reset'
   "system_color" : "bright_green",
-  "entry_color" : "white"
+  "entry_color" : "white",
   "version" : 1, // if you still want to stay in, Don't change it.
-  "notify" : True
+  "notify" : true
   
   /*  
   WARNMING :
