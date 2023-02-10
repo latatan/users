@@ -1,0 +1,6 @@
+{
+  "version" : "inferno 1",
+  "installer" : "req_empty",
+  "core_version" : "deafult",
+  "support" : "windows"
+}
